@@ -1,0 +1,1 @@
+Place your logo as assets/logo.png and any Quran files in this folder. Do not add copyrighted full Mushaf without proper license.
